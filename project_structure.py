@@ -14,3 +14,7 @@ def save_project_structure(root_dir, output_file='project_structure.txt'):
 if __name__ == "__main__":
     project_root = '.'  # Use '.' to point to the current directory
     save_project_structure(project_root)
+
+
+
+#exit
